@@ -1,5 +1,4 @@
-# savory-bites
-🍴 Savory Bites
+# 🍴 Savory Bites
 
 Savory Bites is a frontend-based online food ordering website developed using HTML, CSS, and Bootstrap. The project focuses on creating a responsive and user-friendly interface for showcasing menus and simulating the process of placing food orders.
 
